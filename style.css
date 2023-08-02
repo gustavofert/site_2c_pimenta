@@ -1,0 +1,130 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    }
+    
+    body{
+        background-image: linear-gradient(lemonchiffon, #dd371a);
+    }
+
+    .cabeçalho{
+    color: rebeccapurple;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+    }
+    
+    .cabeçalho_imagem{
+    width: 12%;
+    }
+    
+    .cabeçalho_titulo{
+    font-size: 50px;
+    }
+    
+    .cabeçalho_lista_item{
+    margin: 25px 0px 25px 0px;
+    font-size: 20px;
+    }
+
+    .apresentaçao_trabalho{
+        font-size: 25px;
+    display: flex;
+    justify-content: left;    
+    padding: -20%;
+   margin:  auto
+    }
+    
+    .texto1{
+       font-size: 25px;
+    }
+
+    .texto2{
+        font-size: 25px;
+     }
+
+    .titulo_apresentaçao_trabalho{
+    font-size: 35px;
+    color: blueviolet;
+    }
+
+    .imagem_arvore{
+        padding: 15%;
+        position: relative;
+        margin: -250px -300px 400px -200px;
+        justify-content: baseline ;
+        display: flex;
+        width: 30%
+    }
+
+    .Titulo1{
+   color: rgb(0, 0, 0);
+   font-size: 25px;
+   
+ }
+
+    .akat{
+        justify-content: center;
+       margin: -450px 00px -450px 90px;
+        color: rgb(140, 28, 245)
+        font-size: 30px;
+    }
+    
+    .sla{
+        justify-content: center;
+        margin: 300px -100px 40px 10px;
+    }
+
+    .pimentinha{
+        padding: 15%;
+        justify-content: left;
+        margin: -650px -100px 00px 1150px;
+        width: 23%;
+    }
+    
+    .Texto3{
+        color: rgb(0, 0, 0);
+        font-size: 25px;
+    }
+    
+    .Texto4{
+        color: rgb(0, 0, 0);
+   font-size: 25px;
+    }
+
+    .Texto5{
+        color: rgb(0, 0, 0);
+   font-size: 25px;
+    }
+
+    .link-pimentinha{
+        font-size: 25px;
+    }
+
+    .semente{
+    width:  35%;
+    padding: 15%;
+    position: relative;
+    margin: -1450px 300px 400px 290px;
+    justify-content: baseline ;
+    display: flex;
+    }
+  
+    .suculentas{
+        width:  35%;
+    padding: 15%;
+    position: relative;
+    margin: -100px -300px 400px 800px;
+    justify-content: baseline ;
+    display: flex;
+    }
+
+    .salcinha{
+        width:  15%;
+        padding: 15%;
+        position: relative;
+        margin: -800px -300px 400px 1000px;
+        justify-content: baseline ;
+        display: flex;
+    }
