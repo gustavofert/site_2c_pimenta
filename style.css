@@ -52,23 +52,25 @@
     .imagem_arvore{
         padding: 15%;
         position: relative;
-        margin: -250px -300px 400px -200px;
+        margin: -190px -100px 1500px -130px;
         justify-content: baseline ;
         display: flex;
         width: 30%
     }
 
     .Titulo1{
-   color: rgb(0, 0, 0);
-   font-size: 25px;
+        font-size: 25px;
+        color: black
+    }
    
- }
+   
+ 
 
     .akat{
+        font-size: 30px;
         justify-content: center;
        margin: -450px 00px -450px 90px;
-        color: rgb(140, 28, 245)
-        font-size: 30px;
+        color: rgb(126, 11, 235)
     }
     
     .sla{
@@ -79,22 +81,22 @@
     .pimentinha{
         padding: 15%;
         justify-content: left;
-        margin: -650px -100px 00px 1150px;
+        margin: -800px -800px -789px -05px;
         width: 23%;
     }
     
     .Texto3{
-        color: rgb(0, 0, 0);
+        
         font-size: 25px;
     }
     
     .Texto4{
-        color: rgb(0, 0, 0);
+        
    font-size: 25px;
     }
 
     .Texto5{
-        color: rgb(0, 0, 0);
+        
    font-size: 25px;
     }
 
@@ -106,7 +108,7 @@
     width:  35%;
     padding: 15%;
     position: relative;
-    margin: -1450px 300px 400px 290px;
+    margin: -1500px 400px 400px 670px;
     justify-content: baseline ;
     display: flex;
     }
@@ -115,7 +117,7 @@
         width:  35%;
     padding: 15%;
     position: relative;
-    margin: -100px -300px 400px 800px;
+    margin: 600px -200px -100px 600px ;
     justify-content: baseline ;
     display: flex;
     }
@@ -124,7 +126,22 @@
         width:  15%;
         padding: 15%;
         position: relative;
-        margin: -800px -300px 400px 1000px;
+        margin: -1090px -300px 300px 870px;
         justify-content: baseline ;
         display: flex;
     }
+
+    .akat2{
+        color: blueviolet;
+        margin: 100px 10px -100px 500px;
+    }
+
+    .foto24{
+        width: 20% ;
+        margin: -8700px 300px 1500px 470px;
+    }
+
+    .bambu{
+        width: 15%;
+        margin: -190px -300px 300px 1000px;;
+    }   
